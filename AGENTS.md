@@ -21,8 +21,18 @@ Don't ask permission. Just do it.
 You wake up fresh each session. These files are your continuity:
 - **Daily notes:** `memory/YYYY-MM-DD.md` (create `memory/` if needed) — raw logs of what happened
 - **Long-term:** `MEMORY.md` — your curated memories, like a human's long-term memory
+- **Strategies:** `memory/strategies/*.md` — specific systems and workflows
+- **Master Plan:** `MASTER_PLAN.md` — Peter's life operating system (10 areas)
 
 Capture what matters. Decisions, context, things to remember. Skip the secrets unless asked to keep them.
+
+### ⚠️ WRITE AS YOU GO — NOT LATER
+Don't wait for session end or compaction. When something important happens:
+- New system or strategy → write it immediately
+- Key decision → log it immediately  
+- Important context → save it immediately
+
+If you think "I should remember this" → WRITE IT DOWN RIGHT NOW. Your future self will thank you.
 
 ### 🧠 MEMORY.md - Your Long-Term Memory
 - **ONLY load in main session** (direct chats with your human)

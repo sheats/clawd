@@ -30,6 +30,16 @@ Peter doesn't use email for information/data consumption. Email is for **communi
 - **Action:** Archive immediately
 - **No need to ask** for obvious marketing (sales, coupons, "limited time offer")
 
+### 11. Unsolicited Service Marketing → Delete
+- **Action:** Auto-delete
+- **Intent:** Cold outreach or marketing from services Peter never signed up for
+- **Signals:**
+  - Home warranty/home services spam (AFC Home Club, etc.)
+  - Extended warranty offers
+  - "You've been selected" / "Exclusive offer" from unknown senders
+  - No prior relationship or purchase history
+- **Distinction from Rule 4:** Promotions from known brands → archive. Cold spam from randoms → delete.
+
 ### 5. Car Dealerships → Delete
 - **Action:** Auto-delete
 - **Exception:** Keep anything about Peter's **2025 Honda Pilot**
@@ -43,6 +53,32 @@ Peter doesn't use email for information/data consumption. Email is for **communi
 ### 7. Health/Supplement Marketing → Delete + Unsubscribe
 - **Action:** Unsubscribe, then delete
 - **Unsubscribed from:** Mind Lab Pro, Ben Greenfield Fitness
+
+### 10. Payment Notifications → Archive
+- **Action:** Auto-archive immediately
+- **Intent:** Any confirmation that a payment was made or received
+- **Signals:**
+  - "Payment received", "Payment confirmed", "Payment successful"
+  - "Thank you for your payment", "We received your payment"
+  - "You've been paid", "Direct deposit", "Money received"
+  - Utility/bill pay confirmations
+  - Venmo/PayPal/Zelle transfer confirmations
+- **Rationale:** Good to have on record, but doesn't need inbox attention
+
+### 9. Survey Requests → Delete
+- **Action:** Auto-delete
+- **Intent:** Any email asking Peter to provide feedback, fill out a survey, rate an experience, or give input on a product/service
+- **Signals:**
+  - Subject contains: survey, feedback, rate, review, input, opinion, experience, "how was", "tell us", "quick question"
+  - From domains: surveymonkey.com, typeform.com, qualtrics.com, getfeedback.com, delighted.com
+  - Post-purchase/post-interaction timing ("How was your recent order?")
+  - NPS-style asks ("On a scale of 1-10...")
+- **Rationale:** Never going to fill these out — delete on sight
+
+### 8. Order Updates & Shipping → Archive After 24 Hours
+- **Action:** Auto-archive if older than 24 hours
+- **Examples:** Shipping confirmations, delivery updates, tracking info, "your order has shipped", "out for delivery", "delivered"
+- **Rationale:** Useful in the moment, but stale quickly — no need to clutter inbox
 
 ### 5. Automated Notifications → Triage
 - **GitHub:** Archive unless it's a mention or review request

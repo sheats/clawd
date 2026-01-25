@@ -74,9 +74,23 @@
 
 ## Important Files
 
+- `/Users/sheats/clawd/MASTER_PLAN.md` — Life operating system (10 areas: family, faith, health, business, career, money, growth, home, freedom)
+- `/Users/sheats/clawd/memory/strategies/x-bookmarks.md` — X bookmark processing strategy
 - `/Users/sheats/hc/` — High Cotton monorepo (Django + React + Shopify + strategy docs)
 - `/Users/sheats/hc/strategy/` — Comprehensive strategy hub (marketing, SEO, brand, etc.)
 - `/Users/sheats/hc/strategy/infrastructure/architect.md` — Migration plan with code for cron jobs
+
+## Active Systems (In Progress)
+
+### X Bookmarks → Knowledge Base
+- **Goal:** Daily task processes X bookmarks, extracts full thread content, categorizes by MASTER_PLAN areas, stores for later retrieval
+- **Status:** Strategy documented, need to set up bird CLI auth + cron job
+- **Why:** So North can reference saved content during brainstorming, find things on demand
+
+### Voice Calls with North
+- **Goal:** Real phone calls for walking conversations
+- **Status:** Exploring Clawdbot voice-call plugin (Twilio/Telnyx)
+- **Needs:** Phone number, API keys, webhook/tunnel setup
 
 ---
 
