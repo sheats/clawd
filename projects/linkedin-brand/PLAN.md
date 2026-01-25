@@ -210,6 +210,25 @@ Based on what works on LinkedIn:
 
 **Common thread:** They teach from experience. They're not selling—they're sharing.
 
+### Influencer Research (see `/research/influencer-strategies.md`)
+
+**Dickie Bush** (Ship 30 for 30):
+> "LinkedIn generates 70% of our leads and 70% of our revenue."
+- 1 post/day on LinkedIn
+- Don't start a blog, write on social instead
+- 365 days of publishing = breakthrough
+
+**Matt Gray** (850K+ audience):
+> "Volume is everything. Consistency compounds."
+- Posts LinkedIn 7 days/week at 8:07 AM EST
+- "Think of content like a TV show"
+- One idea → 20+ posts via repurposing
+
+**Sahil Bloom**:
+> "Wrong question: 'How do I build a personal brand?' Right question: 'How do I create value for others?'"
+- 30 minutes/day for 30 days = momentum
+- Focus on value, brand is the byproduct
+
 ### Peter's Unique Angle
 
 - **Scale story**: First dev → VP Engineering at ClearCare (0→4,000 agencies)
