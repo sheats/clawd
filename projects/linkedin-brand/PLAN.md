@@ -44,9 +44,37 @@ From [Alex Nguyen's 100-Day LinkedIn Challenge](https://realalexnguyen.medium.co
 
 ---
 
+## Trend Monitoring (Ongoing)
+
+**Purpose:** Surface timely topics Peter can react to — not just evergreen content.
+
+**What we track:**
+- **X/Twitter**: Tech leadership, engineering culture, startup discourse
+- **Hacker News**: Top stories in tech/startups
+- **Key voices**: Follow what influential CTOs/VPs are posting
+- **News**: Layoffs, AI shifts, funding rounds, industry moves
+
+**Delivery:**
+- 3x/week alongside question sessions
+- Format: "Here's what people are talking about this week — any hot takes?"
+- Peter can react to 1-2 topics or skip entirely
+
+**Sources:**
+- `bird search "engineering leadership"` / `"CTO"` / `"VP engineering"`
+- HN front page via API
+- Curated list of voices to monitor (build over time)
+
+**Reactive Content Types:**
+1. **Hot take** — Quick opinion on news (layoffs, AI tools, etc.)
+2. **"Here's what people miss..."** — Contrarian response to trending topic
+3. **Experience-based commentary** — "I dealt with this at ClearCare, here's what I learned"
+4. **Signal boost + add value** — Share someone else's post with your perspective
+
+---
+
 ## Phase 1: Information Gathering (Weeks 1-3)
 
-**Format:** 3x per week, North sends 10 questions. Peter voice-dictates answers.
+**Format:** 3x per week, North sends 10 questions + trend digest. Peter voice-dictates answers.
 
 **Goal:** Build a rich repository of Peter's stories, lessons, opinions, and experiences that we can later synthesize into posts.
 
