@@ -82,10 +82,11 @@
 
 ## Active Systems (In Progress)
 
-### X Bookmarks → Knowledge Base
+### X Bookmarks → Knowledge Base ✅
 - **Goal:** Daily task processes X bookmarks, extracts full thread content, categorizes by MASTER_PLAN areas, stores for later retrieval
-- **Status:** Strategy documented, need to set up bird CLI auth + cron job
-- **Why:** So North can reference saved content during brainstorming, find things on demand
+- **Status:** LIVE — cron job runs daily at 6 AM
+- **Location:** `knowledge/` organized by MASTER_PLAN categories
+- **Why:** North can reference saved content during brainstorming, find things on demand
 
 ### Voice Calls with North
 - **Goal:** Real phone calls for walking conversations

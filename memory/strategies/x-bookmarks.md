@@ -53,8 +53,20 @@ Content gets tagged to these life areas:
 
 ## Status
 
-- [ ] Define master plan categories
-- [ ] Set up bird CLI authentication
-- [ ] Create storage structure
-- [ ] Build processing script/workflow
-- [ ] Set up daily cron job
+- [x] Define master plan categories (mapped to MASTER_PLAN.md)
+- [x] Set up bird CLI authentication (working via browser cookies)
+- [x] Create storage structure (`knowledge/` by category)
+- [x] Build processing script/workflow (tested 2026-01-25)
+- [x] Set up daily cron job (6 AM daily, job id: x-bookmarks-daily)
+
+## Cron Job
+
+**Schedule:** 0 6 * * * (6 AM daily)
+**Action:** Fetch bookmarks → extract threads → save to knowledge/ → unbookmark → commit
+
+## Notes from First Run (2026-01-25)
+
+- Processed ~50 bookmarks
+- Saved 11 valuable pieces (threads with substance)
+- Skipped 39 low-value items (promos, memes, single tweets)
+- Todoist bookmark processing discontinued — X bookmarks only going forward
