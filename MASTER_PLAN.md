@@ -29,12 +29,12 @@
 
 ### Boys
 
-**Timothy (18)**
+**Malachi (18)** — born 7/15/07
 - At crossroads: college vs "The Preparation" program
 - Needs: guidance as he makes this decision
 - Dad's role: help him think through it, not decide for him
 
-**Malachi (13)**
+**Timothy (13)** — born 12/29/12
 - Challenge: too much gaming time
 - Needs: strategy to reduce screens, find hobbies + activities that push him
 - Dad's role: help him discover what he's into beyond games
