@@ -39,7 +39,7 @@
 - Needs: strategy to reduce screens, find hobbies + activities that push him
 - Dad's role: help him discover what he's into beyond games
 
-**Samuel (1)**
+**Ezra (2)** — born 1/24/24
 - Just needs presence — gets what he needs automatically
 - Enjoy this stage
 

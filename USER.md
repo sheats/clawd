@@ -29,7 +29,16 @@
 
 ## Personal
 
-- **Family:** Married, 3 boys (18, 13, and 1)
+- **Family:** Married to Amanda, 3 boys
+
+### Birthdays
+| Name | Birthday | Age (2026) |
+|------|----------|------------|
+| Peter | 10/12/81 | 44 |
+| Amanda | 9/23/83 | 42 |
+| Timothy | 12/29/12 | 13 |
+| Malachi | 7/15/07 | 18 |
+| Ezra | 1/24/24 | 2 |
 - **Faith:** Christian — wants to invest more here
 - **Health:** Working on fitness
 - **Role:** Husband, father, provider — trying to show up well in all of it
