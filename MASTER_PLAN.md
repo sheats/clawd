@@ -9,7 +9,9 @@
 
 ## 🎯 Current Season
 
-**Theme:** *The AI Acceleration* — Bring AI agents into my life to scale efforts and earnings
+**Theme:** *The AI Acceleration* — Bring AI agents into my life to scale efforts and earnings, while simplifying and focusing
+
+**The tension:** Scale AND simplify. Use AI to do more with less — not just more.
 
 **Q1 2026 Priorities:**
 1. ReturnZap — Revenue growth
