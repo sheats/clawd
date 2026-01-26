@@ -9,7 +9,7 @@
 
 ## 🎯 Current Season
 
-**Theme:** *TBD*
+**Theme:** *The AI Acceleration* — Bring AI agents into my life to scale efforts and earnings
 
 **Q1 2026 Priorities:**
 1. ReturnZap — Revenue growth
@@ -25,14 +25,19 @@
 
 ### Boys
 
-**[Oldest - 18]**
-- *Stage of life, relationship goals, how to show up...*
+**Timothy (18)**
+- At crossroads: college vs "The Preparation" program
+- Needs: guidance as he makes this decision
+- Dad's role: help him think through it, not decide for him
 
-**[Middle - 13]**
-- *...*
+**Malachi (13)**
+- Challenge: too much gaming time
+- Needs: strategy to reduce screens, find hobbies + activities that push him
+- Dad's role: help him discover what he's into beyond games
 
-**[Youngest - 1]**
-- *...*
+**Samuel (1)**
+- Just needs presence — gets what he needs automatically
+- Enjoy this stage
 
 ### Family Goals
 - *What does thriving look like for the Sheats family?*
@@ -45,7 +50,8 @@
 - *Church, prayer, study, community...*
 
 ### Growth Areas
-- *Where do you want to go deeper?*
+- **Currently reading:** "The Soul of Shame" by Curt Thompson
+- [ ] Finish the book this quarter
 
 ### Community
 - *Small group, mentors, accountability...*
@@ -77,6 +83,9 @@
 4. Gym (3x/week)
 5. Office
 
+### Injury
+- Knee — injured skiing, needs fixing
+
 ### Mental
 - *Stress management, clarity practices...*
 
@@ -91,7 +100,10 @@
 
 ### High Cotton Ties
 - **Status:** Strategy complete, migration 90% done, execution gap
-- **Goal:** *...*
+- **Q1 Goal:** AI-automated marketing pipeline
+  - Automate full marketing activities that large companies do
+  - Right human review steps in the process
+  - Start seeing results by end of Q1
 - **Notes:** *...*
 
 ### ReturnZap
@@ -157,7 +169,15 @@
 - *House projects, improvements...*
 
 ### Hobbies
-- *What do you do for fun?*
+**Active:**
+- Cook / grill / smoke meats
+- Walking
+
+**Want to do more:**
+- Tennis
+- Shooting pool
+
+*Need to find more outlets*
 
 ---
 
