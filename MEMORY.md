@@ -97,6 +97,28 @@
 
 ## Lessons Learned
 
-*(Will add as we go)*
+### How Peter Consumes Content
+- **Context-driven, not backlog-driven** — He won't read 7 articles "because they're good"
+- **Relevance to current focus** — Content must connect to what he's actively working on
+- **Just-in-time surfacing** — When he's working on productivity, THEN suggest the productivity content
+- **Don't assign reading homework** — Instead, surface relevant saved content when the moment is right
+
+**How to apply:**
+- Don't dump reading lists on him
+- When he's working on X, search knowledge base for X-related content and suggest 1-2 pieces
+- Frame as "You saved this a while back, relevant now" not "Read these 7 things"
+
+### Daily Structure (Business Days)
+- **Top priority:** 7-8 hours coding on ReturnZap — this is THE focus
+- **Morning buffer:** 15 minutes max for catching up, investing in other things
+- **Hard to get started:** Don't pile on morning tasks that delay deep work
+- **Unscheduled todos are fine:** Keep a list of "other things" without specific times
+- **Don't over-schedule:** Minimal time blocks, protect the coding time
+
+**How to apply:**
+- Morning: ONE 15-min block for quick wins (inbox, review, admin)
+- Then: "Deep work: ReturnZap" as the main event (unscheduled or loose block)
+- Unscheduled todos: Things like LinkedIn, High Cotton, other projects — no pressure on timing
+- Don't create friction that delays getting into code
 
 ---
