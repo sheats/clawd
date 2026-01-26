@@ -55,13 +55,35 @@
 ## 💪 Health
 
 ### Physical
-- *Fitness routine, nutrition, sleep...*
+**Current:** 238 lbs  
+**Goal:** 210 lbs by summer 2026 (~28 lbs)
+
+**Nutrition:**
+- Keto diet (now through summer)
+
+**Sleep:**
+- Oura ring tracking
+- Goal: crowns as many nights as possible
+- Wake at 6am
+
+**Fitness:**
+- 30 min treadmill daily (morning)
+- 30 min gym 3x/week
+
+**Daily Routine:**
+1. Wake 6am
+2. 30 min treadmill
+3. Take son to school (30-40 min drive)
+4. Gym (3x/week)
+5. Office
 
 ### Mental
 - *Stress management, clarity practices...*
 
 ### Goals
-- *What does healthy look like for you?*
+- [ ] 210 lbs by summer 2026
+- [ ] Consistent Oura crowns
+- [ ] 6am wake time locked in
 
 ---
 
@@ -142,7 +164,16 @@
 ## 🔥 Freedom
 
 ### What Freedom Means to You
-- *Define it. What does the end state look like?*
+- **Location independence:** Travel anywhere in the world, stay as long as I want
+- **Time independence:** Don't have to work if I don't want to
+- **Passive income:** Covers all needs without active work
+- **Modest lifestyle:** Not luxurious — moderately nice is fine
+- **Food resilience:** Land + permaculture, inspired by Jack Spirko / The Survival Podcast
+- **Prepping mindset:** Self-sufficiency, not dependent on fragile systems
+
+### Freedom Number
+- **Target:** $15k/month net passive income ($180k/year)
+- **Current spend:** ~$13k/month
 
 ### Milestones
 - [ ] *...*
