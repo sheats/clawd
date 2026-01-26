@@ -85,6 +85,11 @@
 
 ### Injury
 - Knee — injured skiing, needs fixing
+- [ ] Get it assessed / PT / treatment plan
+
+### Diagnostics
+- [ ] Blood panels via FunctionalHealth.com or similar
+- Goal: data-driven health decisions
 
 ### Mental
 - *Stress management, clarity practices...*
