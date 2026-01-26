@@ -153,6 +153,10 @@
 - **Active:** ReturnZap, High Cotton
 - **Passive/Investment:** *Dividends, trading, crypto...*
 
+### Q1 Cleanup Tasks
+- [ ] **Crypto audit** — Review everything owned, decide what to do with each position
+- [ ] **Financial review with North** — Full picture, then build a strategy
+
 ### Goals
 - *Freedom number? Milestones?*
 
