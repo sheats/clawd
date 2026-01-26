@@ -21,7 +21,11 @@
 ## 👨‍👩‍👦‍👦 Family
 
 ### Amanda
-- *Notes about partnership, how to support her, shared goals...*
+- Samuel was a surprise — disrupted the trajectory they were on
+- **Q1 Goal:** Design systems/strategies to help life feel more like it did before baby
+  - More freedom, more couple time, less chaos
+  - Could involve: routines, childcare help, date nights, shared calendar, etc.
+- *Ask Amanda what she specifically needs*
 
 ### Boys
 
