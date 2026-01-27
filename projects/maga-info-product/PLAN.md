@@ -447,10 +447,11 @@ This is the sweet spot—intersection of high demand, proven products, and stron
 - Email list building starts Month 2
 
 **Key Success Factors:**
-- Authentic personality (not polished, not preachy)
+- Consistent brand voice (not polished, not preachy)
 - Practical value in every video
-- Strong thumbnails (face + clear text)
+- Strong thumbnails (compelling imagery + clear text)
 - Call-to-action to email list in every video
+- Quality voiceover (AI or human)
 
 ---
 
@@ -751,15 +752,44 @@ This is the sweet spot—intersection of high demand, proven products, and stron
 
 ## Part 7: What North (AI) Can Do vs Peter Must Do
 
-### North Handles:
+### 🔄 REVISED: Faceless/Anonymous Approach
+
+**Strategy Update:** Peter will NOT be the face of this brand. We'll use a pseudonymous brand identity with faceless content. This increases AI leverage to ~80% and makes the system more replicable across niches.
+
+---
+
+### Brand Identity (Pseudonymous)
+
+**Create a persona/brand:**
+- Brand name (e.g., "American Preparedness Co." or "Heritage Survival")
+- Optional: Character name with backstory (never shows face)
+- Consistent voice/tone in all content
+- Logo and visual identity (AI-generated or Canva)
+
+**Why this works:**
+- Many successful info product brands are faceless
+- "The Lost Ways" — no one knows who Claude Davis really is
+- Newsletter empires (Agora) use pen names constantly
+- Audience cares about VALUE, not your face
+
+---
+
+### North Handles (~80%):
 
 **Content Creation:**
-- Draft blog posts from outlines
-- Research topics and keywords
-- Write email sequences (Peter adds personality)
-- Create social media post templates
-- Transcribe and repurpose video content
-- Generate product content drafts
+- Draft ALL blog posts (human review only)
+- Write email sequences and newsletters
+- Create social media content
+- Generate product content (PDFs, ebooks)
+- Script faceless YouTube videos
+- Create SEO-optimized articles at scale
+
+**Video Production (Faceless):**
+- Write video scripts
+- Suggest stock footage / B-roll sources
+- Create text overlays and graphics
+- Source AI voiceover (ElevenLabs) or human voice actor
+- Edit with stock footage + voiceover
 
 **Research:**
 - Competitor analysis
@@ -769,45 +799,94 @@ This is the sweet spot—intersection of high demand, proven products, and stron
 - Audience insights
 
 **Operations:**
-- Set up automations
-- Analytics tracking
+- Set up automations (email, social)
+- Analytics tracking and reporting
 - A/B test planning
 - Technical documentation
-- Customer FAQ responses (templates)
+- Customer FAQ response templates
+- Manage content calendar
 
 **Strategy:**
 - Marketing calendar
 - Launch planning
-- Funnel optimization suggestions
+- Funnel optimization
 - Growth recommendations
 
-### Peter Must Do:
+---
 
-**Face & Voice:**
-- YouTube videos (on camera)
-- Podcast appearances
-- Personal stories and experiences
-- "I" statements and opinions
-- Voice recordings for products
+### Peter Must Do (~20%):
 
-**Decisions:**
-- Final approval on all content
+**Decisions & Approvals:**
+- Final approval on all content before publish
 - Brand positioning choices
 - Pricing decisions
 - Product direction
-- Which advice to take/ignore
+- Strategic pivots
 
-**Relationship Building:**
-- Engage in Facebook groups personally
-- Reply to meaningful comments
-- Build relationships with other creators
-- Customer conversations (important ones)
+**Voice (Optional):**
+- If using human voice: Record voiceovers (or hire Fiverr talent)
+- If using AI voice: Just approve the output
 
 **Quality Control:**
-- Review all content before publishing
-- Ensure authenticity and accuracy
-- Add personal anecdotes
-- Final edit on everything
+- Review content for accuracy/tone
+- Ensure nothing goes out that feels wrong
+- Occasional edits/tweaks
+
+**Light Engagement (Pseudonymous):**
+- Occasional replies in Facebook groups (as brand)
+- Monitor comments/DMs (can be templated)
+- Relationship building with other creators (optional)
+
+**Money & Accounts:**
+- Set up payment processing (Stripe, etc.)
+- Create accounts (hosting, email, etc.)
+- Monitor revenue and expenses
+
+---
+
+### Faceless Video Strategy
+
+**How to create YouTube content without showing face:**
+
+1. **Stock Footage + Voiceover**
+   - Script written by AI
+   - Stock footage from Pexels, Storyblocks, etc.
+   - AI voice (ElevenLabs ~$22/mo) or hire voice on Fiverr ($20-50/video)
+   - Edit in CapCut, DaVinci Resolve (free), or hire editor
+
+2. **Screen Recording / Slideshow**
+   - Present information as slides
+   - Voiceover explains
+   - Good for tutorials, "top 10" lists
+
+3. **Whiteboard / Animation**
+   - Tools like Doodly, VideoScribe
+   - More production but higher engagement
+   - Good for explainer content
+
+4. **Text-on-screen / Kinetic Typography**
+   - No voice needed
+   - Music + text + stock footage
+   - Works for Shorts/Reels
+
+**Proven Examples:**
+- Many finance channels are completely faceless
+- History/documentary channels use this format
+- True crime, prepper, and conspiracy content often faceless
+- "Bright Side" has 45M subs — largely faceless
+
+---
+
+### AI Voice Options
+
+| Service | Cost | Quality | Notes |
+|---------|------|---------|-------|
+| ElevenLabs | $22/month | Excellent | Best quality, many voices |
+| Play.ht | $30/month | Very good | Good alternative |
+| Murf.ai | $29/month | Good | Easy to use |
+| Fiverr Human | $20-50/video | Authentic | Real human, more trusted |
+
+**Recommendation:** Start with ElevenLabs. If audience responds better to human voice, switch to Fiverr talent later.
 
 ---
 
