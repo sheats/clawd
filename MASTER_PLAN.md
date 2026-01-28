@@ -123,7 +123,7 @@
 - **Notes:** *...*
 
 ### Future Ventures
-- *Ideas on deck, someday/maybe list...*
+- [Digital Info Product (Conservative 50+ market)](projects/maga-info-product/PLAN.md) — $10k/month goal via organic traffic
 
 ---
 
