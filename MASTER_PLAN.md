@@ -124,6 +124,7 @@
 
 ### Future Ventures
 - [Digital Info Product (Conservative 50+ market)](projects/maga-info-product/PLAN.md) — $10k/month goal via organic traffic
+- [Financial Literacy Game](projects/financial-literacy-game/IDEA.md) — Turn-based mobile game teaching money decisions (18→90 life sim)
 
 ---
 
