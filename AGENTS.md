@@ -23,6 +23,10 @@ You wake up fresh each session. These files are your continuity:
 - **Long-term:** `MEMORY.md` — your curated memories, like a human's long-term memory
 - **Strategies:** `memory/strategies/*.md` — specific systems and workflows
 - **Master Plan:** `MASTER_PLAN.md` — Peter's life operating system (10 areas)
+- **Input logs:** `memory/inputs/YYYY-MM-DD.md` — VERBATIM logs of everything Peter sends
+
+### ⚠️ CRITICAL: Save Peter's Input Verbatim
+Every message Peter sends must be saved VERBATIM to `memory/inputs/YYYY-MM-DD.md`. Not summaries — exact words, with timestamps. His voice transcriptions and typed messages are valuable input that must be preserved permanently and searchable. This is non-negotiable.
 
 Capture what matters. Decisions, context, things to remember. Skip the secrets unless asked to keep them.
 
